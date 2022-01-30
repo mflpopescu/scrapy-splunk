@@ -18,7 +18,7 @@ cd your_scraper_folder
 mkdir pipelines
 cd pipelines
 touch __init__.py
-wget
+wget https://raw.githubusercontent.com/mflpopescu/scrapy-splunk/main/splunksend.py
 ```
 
 
